@@ -1,4 +1,10 @@
 {
+  "dependencies": {
+    "gatsby": "^3.0.0"
+  }
+}
+
+{
   "name": "gatsby-starter-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
